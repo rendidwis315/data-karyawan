@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppDataKaryawan" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="primary">@color/primary</item>
+        <item name="kedua">@color/kedua</item>
+        <item name="ketiga">@color/ketiga</item>
+        <item name="keempat">@color/keempat</item>
+    </style>
+</resources>
